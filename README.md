@@ -7,7 +7,7 @@ This repository offers a batch file `deploy_gh_p.bat` to automate the GitHub Act
 
 1. **Understanding the Files:**
 
-   - This repository provides essential files to automate the Vite Deploying process. You can refer to ErickKs <a href="https://github.com/ErickKS/vite-react-router">
+   - This repository provides essential files to automate the Vite Deploying process. You can refer to ErickKs <a href="https://github.com/ErickKS/vite-deploy/tree/main">
      <img src="https://img.shields.io/badge/Repository%20-%0A66C2.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF&color=282828" />
      </a>
      or <a href="https://www.youtube.com/watch?v=XhoWXhyuW_I">
