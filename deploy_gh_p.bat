@@ -69,7 +69,7 @@ for /f "delims=" %%i in ('git config --get remote.origin.url') do set "github_re
 for /f "delims=" %%i in ('echo !github_repo!') do (
   set "github_repo=!github_repo:.git=!"
   echo base: "!github_repo!" >> vite.config.js
-  echo remember // not \\ >> vite.config.js
+  echo this must look like  base: "/your-repository-name/", >> vite.config.js
 )
 
 endlocal
