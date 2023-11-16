@@ -1,12 +1,17 @@
-## Batch File Repository: Automating GitHub Actions Setup
-
+<div align = "center"> <h1>Automating Vite Deploy </h1>
+</div>
 This repository offers a batch file (`deploy_gh_p.bat`) to automate the GitHub Actions workflow setup and configure a `vite.config.js` file. This automation process simplifies deploying your project on GitHub Pages to just a few clicks by creating a global task in Visual Studio Code.
 
 ### Usage Instructions
 
 1. **Understanding the Files:**
 
-   - This repository provides essential files to automate the GitHub Actions setup. You can refer to ErickKs [tutorial repository](https://github.com/ErickKS/vite-deploy) for a better understanding of how the files should look.
+   - This repository provides essential files to automate the Vite Deploying process. You can refer to ErickKs <a href="https://github.com/ErickKS/vite-react-router">
+     <img src="https://img.shields.io/badge/Repository%20-%0A66C2.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF&color=282828" />
+     </a>
+     or <a href="https://www.youtube.com/watch?v=XhoWXhyuW_I">
+     <img src="https://img.shields.io/badge/Youtube_Video%20-%0A66C2.svg?&style=for-the-badge&logo=YouTube&logoColor=FF0000&color=282828" />
+     </a> for a better understanding of how the files should look.
 
 2. **Save the Batch File Locally:**
 
