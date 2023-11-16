@@ -1,6 +1,6 @@
 <div align = "center"> <h1>Automating Vite Deploy </h1>
 </div>
-This repository offers a batch file (`deploy_gh_p.bat`) to automate the GitHub Actions workflow setup and configure a `vite.config.js` file. This automation process simplifies deploying your project on GitHub Pages to just a few clicks by creating a global task in Visual Studio Code.
+This repository offers a batch file `deploy_gh_p.bat` to automate the GitHub Actions workflow setup and configure a `vite.config.js` file. This automation process simplifies deploying your project on GitHub Pages to just a few clicks by creating a global task in Visual Studio Code.
 
 ### Usage Instructions
 
